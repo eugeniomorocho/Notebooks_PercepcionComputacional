@@ -38,5 +38,5 @@ Este repositorio no habría sido posible sin la contribución de numerosos indiv
 
 https://giphy.com/embed/xT8qB7S0N5g64YNazC
 
-**El Equipo de Percepción Computacional**
-### **Universidad de los Hemisferios**
+### **El Equipo de Percepción Computacional**
+#### **Universidad de los Hemisferios**
