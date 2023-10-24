@@ -38,4 +38,4 @@ Este repositorio no habría sido posible sin la contribución de numerosos indiv
 
 ### **El Equipo de Percepción Computacional**
 #### **Universidad de los Hemisferios**
-##### *Maestría en Inteligencia Artificial Aplicada*
+##### *Maestría en IA Aplicada*
