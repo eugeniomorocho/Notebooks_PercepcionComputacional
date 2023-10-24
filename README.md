@@ -1,6 +1,6 @@
 # Repositorio de Percepción Computacional
 
-¡Bienvenidos al repositorio de Percepción Computacional! Este repositorio contiene material educativo y ejemplos prácticos relacionados con diversas áreas emocionantes de la percepción computacional. Ya sea que seas un estudiante, un entusiasta o un profesional en busca de recursos de aprendizaje, aquí encontrarás una variedad de notebooks interactivos que te ayudarán a explorar conceptos clave en:
+¡Bienvenidos al repositorio de Percepción Computacional! Este repositorio contiene material educativo y ejemplos prácticos relacionados con diversas áreas del módulo Percepción Computacional. Aquí encontrarás una variedad de notebooks interactivos que te ayudarán a explorar conceptos clave en:
 
 - Procesamiento de Imágenes
 - YOLO (You Only Look Once) - Detección de Objetos en Tiempo Real
@@ -36,5 +36,6 @@ Este repositorio no habría sido posible sin la contribución de numerosos indiv
 
 ¡Disfruta explorando este emocionante mundo de la Percepción Computacional!
 
-#### **El Equipo de Percepción Computacional**
+### **El Equipo de Percepción Computacional**
 #### **Universidad de los Hemisferios**
+##### *Maestría en Inteligencia Artificial Aplicada*
