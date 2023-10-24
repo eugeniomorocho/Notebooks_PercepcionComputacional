@@ -37,6 +37,10 @@ Este repositorio no habría sido posible sin la contribución de numerosos indiv
 ¡Disfruta explorando este emocionante mundo de la Percepción Computacional!
 
 ### **El Equipo de Percepción Computacional**
-#### **Universidad de los Hemisferios**
 ##### *Maestría en IA Aplicada*
+#### **Universidad de los Hemisferios**
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://github.com/eugeniomorocho/Notebooks-PercepcionComputacional/assets/28856163/2997b1ae-98c1-4df6-9ca3-efff00a1af3b)" />
+</p>
+
 ![UHE_logo](https://github.com/eugeniomorocho/Notebooks-PercepcionComputacional/assets/28856163/2997b1ae-98c1-4df6-9ca3-efff00a1af3b)
