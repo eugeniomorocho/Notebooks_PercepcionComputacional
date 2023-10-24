@@ -36,7 +36,5 @@ Este repositorio no habría sido posible sin la contribución de numerosos indiv
 
 ¡Disfruta explorando este emocionante mundo de la Percepción Computacional!
 
-https://giphy.com/embed/xT8qB7S0N5g64YNazC
-
-### **El Equipo de Percepción Computacional**
+#### **El Equipo de Percepción Computacional**
 #### **Universidad de los Hemisferios**
