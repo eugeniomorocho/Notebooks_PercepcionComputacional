@@ -36,7 +36,7 @@ Este repositorio no habría sido posible sin la contribución de numerosos indiv
 
 ¡Disfruta explorando este emocionante mundo de la Percepción Computacional!
 
-<iframe src="https://giphy.com/embed/5k5vZwRFZR5aZeniqb" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/5k5vZwRFZR5aZeniqb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb">via GIPHY</a></p>
 
 **El Equipo de Percepción Computacional**
-###**Universidad de los Hemisferios**
+### **Universidad de los Hemisferios**
