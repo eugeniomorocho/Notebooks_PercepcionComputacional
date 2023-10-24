@@ -39,5 +39,4 @@ Este repositorio no habría sido posible sin la contribución de numerosos indiv
 ### **El Equipo de Percepción Computacional**
 #### **Universidad de los Hemisferios**
 ##### *Maestría en IA Aplicada*
-
-![Percepción Computacional](https://images.app.goo.gl/hs6qjyoo3HdjVjzd6.jpg)
+![UHE_logo](https://github.com/eugeniomorocho/Notebooks-PercepcionComputacional/assets/28856163/2997b1ae-98c1-4df6-9ca3-efff00a1af3b)
