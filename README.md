@@ -40,4 +40,4 @@ Este repositorio no habría sido posible sin la contribución de numerosos indiv
 ##### *Maestría en IA Aplicada*
 #### **Universidad de los Hemisferios**
 
-![UHE_logo](https://github.com/eugeniomorocho/Notebooks-PercepcionComputacional/assets/28856163/2997b1ae-98c1-4df6-9ca3-efff00a1af3b)
+![UHE_logo](UHE_logo.jpg)
