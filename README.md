@@ -40,4 +40,4 @@ Este repositorio no habría sido posible sin la contribución de numerosos indiv
 ##### *Maestría en IA Aplicada*
 #### **Universidad de los Hemisferios**
 
-![UHE_logo](UHE_logo.jpg)
+![UHE_logo](UHE_logo.png)
