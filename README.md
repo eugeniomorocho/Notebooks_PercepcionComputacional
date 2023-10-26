@@ -36,8 +36,8 @@ Este repositorio no habría sido posible sin la contribución de numerosos indiv
 
 ¡Disfruta explorando este emocionante mundo de la Percepción Computacional!
 
-### **El Equipo de Percepción Computacional**
-##### *Maestría en IA Aplicada*
+### **El Equipo de la Maestría en IA Aplicada**
+##### *Percepción Computacional*
 #### **Universidad de los Hemisferios**
 
 ![UHE_logo](UHE_logo.png)
