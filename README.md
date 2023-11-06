@@ -1,4 +1,4 @@
-# Repositorio de Percepción Computacional
+# Repositorio de Complemento al Módulo "Percepción Computacional"
 
 ¡Bienvenidos al repositorio de Percepción Computacional! Este repositorio contiene material educativo y ejemplos prácticos relacionados con diversas áreas del módulo Percepción Computacional. Aquí encontrarás una variedad de notebooks interactivos que te ayudarán a explorar conceptos clave en:
 
