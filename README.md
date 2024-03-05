@@ -1,4 +1,4 @@
-# Repositorio de Percepción Computacional
+# Repositorio de Complemento al Módulo "Percepción Computacional"
 
 ¡Bienvenidos al repositorio de Percepción Computacional! Este repositorio contiene material educativo y ejemplos prácticos relacionados con diversas áreas del módulo Percepción Computacional. Aquí encontrarás una variedad de notebooks interactivos que te ayudarán a explorar conceptos clave en:
 
@@ -36,8 +36,11 @@ Este repositorio no habría sido posible sin la contribución de numerosos indiv
 
 ¡Disfruta explorando este emocionante mundo de la Percepción Computacional!
 
-### *El Equipo de la Maestría en IA Aplicada*
-#### *Universidad de los Hemisferios*
-##### **Módulo de Percepción Computacional**
+
+**El Equipo de la Maestría en IA Aplicada**
+
+**Universidad de los Hemisferios**
+
+**Módulo de Percepción Computacional**
 
 ![UHE_logo](UHE_logo.png)
